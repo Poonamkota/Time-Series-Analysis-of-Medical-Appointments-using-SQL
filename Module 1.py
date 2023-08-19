@@ -1,4 +1,4 @@
-Module 1 Python Data Cleaning & Exporting CSV file
+#Module 1 Python Data Cleaning & Exporting CSV file
 
 import numpy as np
 import pandas as pd
@@ -54,9 +54,3 @@ def rename_columns():
     ds.rename(columns = {'Hipertension':'Hypertension', 'Handcap':'Handicap', 'SMS_received':'SMSRecevied', 'No-show':'NoShow'}, inplace = True)
     # Returns: DataFrame with certain column names changed to new names.
     return ds
-
-
-
-	
-	
-    
