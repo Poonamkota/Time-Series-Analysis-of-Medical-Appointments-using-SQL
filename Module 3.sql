@@ -1,4 +1,4 @@
-Module 3 MySQL
+# Module 3 MySQL queries to extract information from patients table
 
 ##Task 1: How many values are there in the given dataset
 SELECT COUNT(*) FROM patients;
