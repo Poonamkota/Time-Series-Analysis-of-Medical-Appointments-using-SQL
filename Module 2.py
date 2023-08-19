@@ -1,4 +1,4 @@
-Module 2 Python Data Cleaning
+#Module 2 Python Data Cleaning and creating new columns, bins, dropping columns, exporting to cleaned CSV file
 
 import numpy as np
 import pandas as pd
